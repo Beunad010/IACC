@@ -1,0 +1,4 @@
+time do coração : 
+Nome : Bernardo
+Cidade : Arroio do Sal
+Idade : 19
